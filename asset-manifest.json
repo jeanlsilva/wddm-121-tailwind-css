@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wddm-121-tailwind-css/static/css/main.c2db5d6f.css",
+    "main.js": "/wddm-121-tailwind-css/static/js/main.3157ce66.js",
+    "static/js/787.6d64a60c.chunk.js": "/wddm-121-tailwind-css/static/js/787.6d64a60c.chunk.js",
+    "static/media/Hero.png": "/wddm-121-tailwind-css/static/media/Hero.3c2284f139ae5c887ab1.png",
+    "static/media/Alasdair.jpg": "/wddm-121-tailwind-css/static/media/Alasdair.8408602c478697e12d76.jpg",
+    "static/media/aws.svg": "/wddm-121-tailwind-css/static/media/aws.d81fa4ec56c8d645d20cda111bd4b076.svg",
+    "static/media/replay.svg": "/wddm-121-tailwind-css/static/media/replay.a54eae650cbfbbbd0a70dd89bcc0dc2a.svg",
+    "index.html": "/wddm-121-tailwind-css/index.html",
+    "static/media/github.svg": "/wddm-121-tailwind-css/static/media/github.23edcf230f9a3162bc7670842f73b3cf.svg",
+    "static/media/gh-actions.svg": "/wddm-121-tailwind-css/static/media/gh-actions.966face6f58fa5f654e3e05eb6493b0b.svg",
+    "static/media/terraform.svg": "/wddm-121-tailwind-css/static/media/terraform.4775d565c227e1a303d25fd6c15f173f.svg",
+    "main.c2db5d6f.css.map": "/wddm-121-tailwind-css/static/css/main.c2db5d6f.css.map",
+    "main.3157ce66.js.map": "/wddm-121-tailwind-css/static/js/main.3157ce66.js.map",
+    "787.6d64a60c.chunk.js.map": "/wddm-121-tailwind-css/static/js/787.6d64a60c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2db5d6f.css",
+    "static/js/main.3157ce66.js"
+  ]
+}
